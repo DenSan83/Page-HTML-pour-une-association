@@ -2,7 +2,7 @@
                             GENERAL TEMPLATE
 ****************************************************************************
 BASE COLORS
------
+-----------
 ** Light green:                         #89B47C
 ** Dark green:                          #336526
 ** Dark red:                            #A50A24
@@ -32,12 +32,24 @@ footer {
 footer a {
     color: #FFF;
 }
-footer a svg {
+footer a:hover {
+    color: #336526;
+}
+.green-letters {
     color: #336526;
 }
 .red-letters {
     color: #A50A24;
 }
-.bold-weight {
-    font-weight: 700;
+
+.red-frame {
+    border:2px solid #A50A24;
+    background-color: #FFF;
+    border-radius: 8px;
+    overflow: hidden;
+}
+@media screen and (min-width : 576px) {
+    .red-frame {
+        box-shadow: 8px 8px 7px #C3C7BF;
+    }
 }
