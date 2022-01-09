@@ -1,0 +1,43 @@
+/***************************************************************************
+                            GENERAL TEMPLATE
+****************************************************************************
+BASE COLORS
+-----
+** Light green:                         #89B47C
+** Dark green:                          #336526
+** Dark red:                            #A50A24
+** Body background:                     #EAEDE6
+****************************************************************************/
+body {
+    min-height: 100vh;
+    background-color: #EAEDE6;
+}
+header {
+    background-color: #89B47C;
+}
+header .h1 {
+    letter-spacing: 5px;
+}
+#desktopNavbar {
+    background-color: #336526;
+}
+#desktopNavbar a {
+    color: #FFF;
+}
+footer {
+    margin-top: auto;
+    background-color: #89B47C;
+    color: #FFF;
+}
+footer a {
+    color: #FFF;
+}
+footer a svg {
+    color: #336526;
+}
+.red-letters {
+    color: #A50A24;
+}
+.bold-weight {
+    font-weight: 700;
+}
