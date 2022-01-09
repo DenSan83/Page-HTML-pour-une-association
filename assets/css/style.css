@@ -53,3 +53,18 @@ footer a:hover {
         box-shadow: 8px 8px 7px #C3C7BF;
     }
 }
+
+/***************************************************************************
+                              EVENTS PAGE
+****************************************************************************/
+.event-box {
+    color: #336526;
+}
+.event-box:not(:last-child) {
+    border-bottom: 2px solid #336526;
+}
+.event-box .btn {
+    color: #FFF;
+    background-color: #A50A24;
+    border-radius: 0;
+}
