@@ -9,7 +9,7 @@ Couleurs de base :
 * Rouge foncé : #A50A24
 * Couleur de fond du Body : #EAEDE6
 
-Pour ce projet, j'ai élaboré deux pages. La page d'Accueil ([index.html](https://aflacoba.desan.fr/events.html)) et la page d'Évènements ([events.html](https://aflacoba.desan.fr/events.html))
+Pour ce projet, j'ai élaboré deux pages. La page d'Accueil ([index.html](https://aflacoba.desan.fr/index.html)) et la page d'Évènements ([events.html](https://aflacoba.desan.fr/events.html))
 
 La page d'Accueil montre un slider avec 5 photos issues des albums de l'association. Puis elle explique brievement le but de l'association et son fonctionnement.
 
